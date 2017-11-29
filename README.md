@@ -1,2 +1,5 @@
 # practices_python
-some coding and playing with the codes
+a ripository for myself to do some practice.
+
+using - python
+
