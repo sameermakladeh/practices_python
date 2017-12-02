@@ -69,7 +69,7 @@ window.bgcolor("red")
 some_turtle = turtle.Turtle()
 
 #draw_square(some_turtle)
-#draw_lotsofsquares()
+draw_lotsofsquares()
 #draw_circle(some_turtle)
 #draw_triangle(some_turtle)
 

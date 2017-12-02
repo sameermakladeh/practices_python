@@ -15,9 +15,9 @@ snakes_on_a_plan = Movieclass.Movie("Snakes on a plane",
                                     "http://www.imdb.com/title/tt0417148/mediaviewer/rm753208064",
                                     "https://www.youtube.com/watch?v=z4t6zNZ-b0A")
 # school_of_rock.show_trailer()
-# snakes_on_a_plan.show_trailer()
+snakes_on_a_plan.show_trailer()
 
-print (Movieclass.Movie.valid_ratings)
+#print (Movieclass.Movie.valid_ratings)
 
 #m_movies = [toy_story, school_of_rock, snakes_on_a_plan]
 #fresh_tomatoes.open_movies_page(m_movies)
